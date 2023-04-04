@@ -5,5 +5,5 @@ The app is built using Flutter and Flame engine, and it was developed as part of
 
 # OUTPUT
 <br>
-<img src="ezgif.com-optimize.gif" alt="game GIF">
+<img src="assets/ezgif.com-optimize.gif" alt="game GIF">
  
